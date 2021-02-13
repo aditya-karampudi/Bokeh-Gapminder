@@ -6,4 +6,4 @@ With the drama and urgency of a sportscaster, statistics guru Hans Rosling uses 
 # Building famous Gapminder Visualization using Bokeh
 This repo consists contains the steps to execute and also hash-tags on each line explawining the functionality of code
 
-![alt text](https://github.com/aditya-karampudi/Bokeh/blob/master/bokeh_plot.jpg?raw=true)
+![alt text](media/bokeh_plot.jpg)
